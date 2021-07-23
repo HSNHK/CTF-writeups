@@ -12,12 +12,12 @@ You can see all the writeups here : <a href="https://hsnhk.gitbook.io/ctf-writeu
     * [CTF learn](#ctf-learn)
 
 # Hack The Box
-| Name  | Descriptions | Writeup | 
-| ----- | ------------ | ------- |
-| Emdee five for life | Can you encrypt fast enough? | [Writeup](HackTheBox/challenges/web/Emdee-five-for-life) |
+| Name  | Type | Descriptions | Writeup | 
+| ----- | ---- | ------------ | ------- |
+| Toxic | Web | Humanity has exploited our allies, the dart frogs, for far too long, take back the freedom of our lovely poisonous friends. Malicious input is out of the question when dart frogs meet industrialisation. 🐸 | [Writeup](HackTheBox/challenges/web/Toxic) | 
+| Emdee five for life | Web | Can you encrypt fast enough? | [Writeup](HackTheBox/challenges/web/Emdee-five-for-life) |
 
 # CTF learn
-| Name  | Descriptions | Writeup | 
-| ----- | ------------ | ------- |
-| Inj3ction Time | I stumbled upon this website: http://web.ctflearn.com/web8/ and I think they have the flag in their somewhere. UNION might be a helpful command | [Writeup](CTFlearn/web/Inj3ction-Time) |
- 
+| Name  | Type | Descriptions | Writeup | 
+| ----- | ---- | ------------ | ------- |
+| Inj3ction Time | Web | I stumbled upon this website: http://web.ctflearn.com/web8/ and I think they have the flag in their somewhere. UNION might be a helpful command | [Writeup](CTFlearn/web/Inj3ction-Time) |
