@@ -16,6 +16,7 @@ You can see all the writeups here : <a href="https://hsnhk.gitbook.io/ctf-writeu
 | ----- | ---- | ------------ | ------- |
 | Toxic | Web | Humanity has exploited our allies, the dart frogs, for far too long, take back the freedom of our lovely poisonous friends. Malicious input is out of the question when dart frogs meet industrialisation. 🐸 | [Writeup](HackTheBox/challenges/web/Toxic) | 
 | Emdee five for life | Web | Can you encrypt fast enough? | [Writeup](HackTheBox/challenges/web/Emdee-five-for-life) |
+| FreeLancer | Web | Can you test how secure my website is? Prove me wrong and capture the flag! | [Writeup](HackTheBox/challenges/web/FreeLancer) |
 
 # CTF learn
 | Name  | Type | Descriptions | Writeup | 
