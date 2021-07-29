@@ -22,3 +22,4 @@ You can see all the writeups here : <a href="https://hsnhk.gitbook.io/ctf-writeu
 | Name  | Type | Descriptions | Writeup | 
 | ----- | ---- | ------------ | ------- |
 | Inj3ction Time | Web | I stumbled upon this website: http://web.ctflearn.com/web8/ and I think they have the flag in their somewhere. UNION might be a helpful command | [Writeup](CTFlearn/web/Inj3ction-Time) |
+| Calculat3 M3  | Web | Here! http://web.ctflearn.com/web7/ I forget how we were doing those calculations, but something tells me it was pretty insecure. | [Writeup](CTFlearn/web/Calculat3-M3)
