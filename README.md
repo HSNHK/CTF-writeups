@@ -19,6 +19,7 @@ You can see all the writeups here : <a href="https://hsnhk.gitbook.io/ctf-writeu
 | FreeLancer | Web | Can you test how secure my website is? Prove me wrong and capture the flag! | [Writeup](HackTheBox/challenges/web/FreeLancer) |
 | Templated | Web | Can you exploit this simple mistake? | [Writeup](HackTheBox/challenges/web/Templated) |
 | Impossible Password | Reversing | Are you able to cheat me and get the flag? | [Writeup](HackTheBox/challenges/reversing/Impossible-Password) |
+| Illumination | Forensics | A Junior Developer just switched to a new source control platform. Can you find the secret token? | [Writeup](HackTheBox/challenges/forensics/Illumination) |
 
 # CTF learn
 | Name  | Type | Descriptions | Writeup | 
