@@ -20,6 +20,7 @@ You can see all the writeups here : <a href="https://hsnhk.gitbook.io/ctf-writeu
 | Templated | Web | Can you exploit this simple mistake? | [Writeup](HackTheBox/challenges/web/Templated) |
 | Impossible Password | Reversing | Are you able to cheat me and get the flag? | [Writeup](HackTheBox/challenges/reversing/Impossible-Password) |
 | Illumination | Forensics | A Junior Developer just switched to a new source control platform. Can you find the secret token? | [Writeup](HackTheBox/challenges/forensics/Illumination) |
+| Phonebook | Web | Who is lucky enough to be included in the phonebook? | [Writeup](HackTheBox/challenges/web/Phonebook) |
 
 # CTF learn
 | Name  | Type | Descriptions | Writeup | 
