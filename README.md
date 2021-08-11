@@ -21,6 +21,7 @@ You can see all the writeups here : <a href="https://hsnhk.gitbook.io/ctf-writeu
 | Impossible Password | Reversing | Are you able to cheat me and get the flag? | [Writeup](HackTheBox/challenges/reversing/Impossible-Password) |
 | Illumination | Forensics | A Junior Developer just switched to a new source control platform. Can you find the secret token? | [Writeup](HackTheBox/challenges/forensics/Illumination) |
 | Phonebook | Web | Who is lucky enough to be included in the phonebook? | [Writeup](HackTheBox/challenges/web/Phonebook) |
+| baby ninja jinja | Web | The elders of the village summoned you to take the reigns after the recent death of you father. It's time to end the emperor's gruesome tyranny. | [Writeup](HackTheBox/challenges/web/baby-ninja-jinja) |
 
 # CTF learn
 | Name  | Type | Descriptions | Writeup | 
