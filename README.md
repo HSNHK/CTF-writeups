@@ -10,6 +10,7 @@ You can see all the writeups here : <a href="https://hsnhk.gitbook.io/ctf-writeu
 * [CTF-writeups](https://github.com/HSNHK/CTF-writeups)
     * [Hack The Box](#hack-the-box)
     * [CTF learn](#ctf-learn)
+    * [Try Hack Me](#tryhackme)
 
 # Hack The Box
 | Name  | Type | Descriptions | Writeup | 
@@ -29,4 +30,14 @@ You can see all the writeups here : <a href="https://hsnhk.gitbook.io/ctf-writeu
 | Name  | Type | Descriptions | Writeup | 
 | ----- | ---- | ------------ | ------- |
 | Inj3ction Time | Web | I stumbled upon this website: http://web.ctflearn.com/web8/ and I think they have the flag in their somewhere. UNION might be a helpful command | [Writeup](CTFlearn/web/Inj3ction-Time) |
-| Calculat3 M3  | Web | Here! http://web.ctflearn.com/web7/ I forget how we were doing those calculations, but something tells me it was pretty insecure. | [Writeup](CTFlearn/web/Calculat3-M3)
+| Calculat3 M3  | Web | Here! http://web.ctflearn.com/web7/ I forget how we were doing those calculations, but something tells me it was pretty insecure. | [Writeup](CTFlearn/web/Calculat3-M3) |
+
+# Tryhackme
+| Name  | Type | Descriptions | Writeup | 
+| ----- | ---- | ------------ | ------- |
+| Basic Malware RE | Room | This room aims towards helping everyone learn about the basics of “Malware Reverse Engineering”. | [Writeup](https://0xhassan.medium.com/tryhackme-basic-malware-re-bfcd518fd314) |
+| Reversing ELF | Room | Room for beginner Reverse Engineering CTF players. | [Writeup](https://0xhassan.medium.com/tryhackme-reversing-elf-60ab96969e41) |
+| Reverse Engineering | Room | This room focuses on teaching the basics of assembly through reverse engineering. | [Writeup](https://0xhassan.medium.com/tryhackme-reverse-engineering-9cd408849f13) |
+| Blue | Machine | Deploy & hack into a Windows machine, leveraging common misconfigurations issues. | [Writeup](https://0xhassan.medium.com/tryhackme-blue-1ccfae7c2e8a) |
+| OWASP Top 10 | Room | Learn about and exploit each of the OWASP Top 10 vulnerabilities; the 10 most critical web security risks. | [Writeup](https://0xhassan.medium.com/tryhackme-owasp-top-10-e2b342c4f9f8) |
+| Nmap Room | Room |  An in depth look at scanning with Nmap, a powerful network scanning tool. | [Writeup](https://0xhassan.medium.com/tryhackme-nmap-room-9db134d5c8cc) |
