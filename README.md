@@ -41,3 +41,4 @@ You can see all the writeups here : <a href="https://hsnhk.gitbook.io/ctf-writeu
 | Blue | Machine | Deploy & hack into a Windows machine, leveraging common misconfigurations issues. | [Writeup](https://0xhassan.medium.com/tryhackme-blue-1ccfae7c2e8a) |
 | OWASP Top 10 | Room | Learn about and exploit each of the OWASP Top 10 vulnerabilities; the 10 most critical web security risks. | [Writeup](https://0xhassan.medium.com/tryhackme-owasp-top-10-e2b342c4f9f8) |
 | Nmap Room | Room |  An in depth look at scanning with Nmap, a powerful network scanning tool. | [Writeup](https://0xhassan.medium.com/tryhackme-nmap-room-9db134d5c8cc) |
+| The find command | Room | A learn-by-doing approach to the find command. | [Writeup](https://0xhassan.medium.com/tryhackme-the-find-command-d64026d89c3) |
