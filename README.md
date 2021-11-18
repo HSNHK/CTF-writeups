@@ -35,10 +35,11 @@ You can see all the writeups here : <a href="https://hsnhk.gitbook.io/ctf-writeu
 # Tryhackme
 | Name  | Type | Descriptions | Writeup | 
 | ----- | ---- | ------------ | ------- |
-| Basic Malware RE | Room | This room aims towards helping everyone learn about the basics of “Malware Reverse Engineering”. | [Writeup](https://0xhassan.medium.com/tryhackme-basic-malware-re-bfcd518fd314) |
-| Reversing ELF | Room | Room for beginner Reverse Engineering CTF players. | [Writeup](https://0xhassan.medium.com/tryhackme-reversing-elf-60ab96969e41) |
-| Reverse Engineering | Room | This room focuses on teaching the basics of assembly through reverse engineering. | [Writeup](https://0xhassan.medium.com/tryhackme-reverse-engineering-9cd408849f13) |
-| Blue | Machine | Deploy & hack into a Windows machine, leveraging common misconfigurations issues. | [Writeup](https://0xhassan.medium.com/tryhackme-blue-1ccfae7c2e8a) |
-| OWASP Top 10 | Room | Learn about and exploit each of the OWASP Top 10 vulnerabilities; the 10 most critical web security risks. | [Writeup](https://0xhassan.medium.com/tryhackme-owasp-top-10-e2b342c4f9f8) |
-| Nmap Room | Room |  An in depth look at scanning with Nmap, a powerful network scanning tool. | [Writeup](https://0xhassan.medium.com/tryhackme-nmap-room-9db134d5c8cc) |
-| The find command | Room | A learn-by-doing approach to the find command. | [Writeup](https://0xhassan.medium.com/tryhackme-the-find-command-d64026d89c3) |
+| Basic Malware RE | Room | This room aims towards helping everyone learn about the basics of “Malware Reverse Engineering”. | [Writeup](https://hsnhk.medium.com/tryhackme-basic-malware-re-bfcd518fd314) |
+| Reversing ELF | Room | Room for beginner Reverse Engineering CTF players. | [Writeup](https://hsnhk.medium.com/tryhackme-reversing-elf-60ab96969e41) |
+| Reverse Engineering | Room | This room focuses on teaching the basics of assembly through reverse engineering. | [Writeup](https://hsnhk.medium.com/tryhackme-reverse-engineering-9cd408849f13) |
+| Blue | Machine | Deploy & hack into a Windows machine, leveraging common misconfigurations issues. | [Writeup](https://hsnhk.medium.com/tryhackme-blue-1ccfae7c2e8a) |
+| OWASP Top 10 | Room | Learn about and exploit each of the OWASP Top 10 vulnerabilities; the 10 most critical web security risks. | [Writeup](https://hsnhk.medium.com/tryhackme-owasp-top-10-e2b342c4f9f8) |
+| Nmap Room | Room |  An in depth look at scanning with Nmap, a powerful network scanning tool. | [Writeup](https://hsnhk.medium.com/tryhackme-nmap-room-9db134d5c8cc) |
+| The find command | Room | A learn-by-doing approach to the find command. | [Writeup](https://hsnhk.medium.com/tryhackme-the-find-command-d64026d89c3) |
+| Disk Analysis & Autopsy | Forensic | Ready for a challenge? Use Autopsy to investigate artifacts from a disk image. | [Writeup](https://hsnhk.medium.com/tryhackme-disk-analysis-autopsy-f967c64feaf1) |
