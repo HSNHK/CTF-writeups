@@ -43,3 +43,4 @@ You can see all the writeups here : <a href="https://hsnhk.gitbook.io/ctf-writeu
 | Nmap Room | Room |  An in depth look at scanning with Nmap, a powerful network scanning tool. | [Writeup](https://hsnhk.medium.com/tryhackme-nmap-room-9db134d5c8cc) |
 | The find command | Room | A learn-by-doing approach to the find command. | [Writeup](https://hsnhk.medium.com/tryhackme-the-find-command-d64026d89c3) |
 | Disk Analysis & Autopsy | Forensic | Ready for a challenge? Use Autopsy to investigate artifacts from a disk image. | [Writeup](https://hsnhk.medium.com/tryhackme-disk-analysis-autopsy-f967c64feaf1) |
+| Internal | CTF | Penetration Testing Challenge | [Writeup](https://hsnhk.medium.com/tryhackme-internal-a64eed0b1562) |
