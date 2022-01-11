@@ -25,6 +25,7 @@ You can see all the writeups here : <a href="https://hsnhk.gitbook.io/ctf-writeu
 | Phonebook | Web | Who is lucky enough to be included in the phonebook? | [Writeup](HackTheBox/challenges/web/Phonebook) |
 | baby ninja jinja | Web | The elders of the village summoned you to take the reigns after the recent death of you father. It's time to end the emperor's gruesome tyranny. | [Writeup](HackTheBox/challenges/web/baby-ninja-jinja) |
 | Gunship | Web | A city of lights, with retrofuturistic 80s peoples, and coffee, and drinks from another world... all the wooing in the world to make you feel more lonely... this ride ends here, with a tribute page of the British synthwave band called Gunship. 🎶 | [Writeup](HackTheBox/challenges/web/Gunship) |
+| Hancliffe | Machine | Hancliffe Hackthebox walkthrough | [Writeup](https://hsnhk.medium.com/hackthebox-hancliffe-ff2aa3da1e3f) |
 
 # CTF learn
 | Name  | Type | Descriptions | Writeup | 
