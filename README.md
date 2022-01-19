@@ -1,21 +1,30 @@
-# CTF Write-ups
+# CTF Writeups
 <p align="center">
-<img src="./resources/images/logo.png">
+<img src="./resources/images/logo.jpg">
 <br>
 <i>Writeups Challenges I have solved</i>
+
+[![HSNHK - CTF-writeups](https://img.shields.io/static/v1?label=HSNHK&message=CTF-writeups&color=blue&logo=github)](https://github.com/HSNHK/CTF-writeups)
+[![stars - CTF-writeups](https://img.shields.io/github/stars/HSNHK/CTF-writeups?style=social)](https://github.com/HSNHK/CTF-writeups)
+[![forks - CTF-writeups](https://img.shields.io/github/forks/HSNHK/CTF-writeups?style=social)](https://github.com/HSNHK/CTF-writeups) [![GitHub release](https://img.shields.io/github/release/HSNHK/CTF-writeups?include_prereleases=&sort=semver)](https://github.com/HSNHK/CTF-writeups/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![issues - CTF-writeups](https://img.shields.io/github/issues/HSNHK/CTF-writeups)](https://github.com/HSNHK/CTF-writeups/issues)
+
 </p>
 
-You can see all the writeups here : <a href="https://hsnhk.gitbook.io/ctf-writeups/">gitbook</a>
+<i>You can see all the writeups here</i>
+- <a href="https://hsnhk.gitbook.io/ctf-writeups/"><img title="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+- <a href="https://hsnhk.gitbook.io/ctf-writeups/"><img title="gitbook" src="https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white"/></a>
 
-* [CTF-writeups](https://github.com/HSNHK/CTF-writeups)
-    * [Hack The Box](#hack-the-box)
-    * [CTF learn](#ctf-learn)
-    * [Try Hack Me](#tryhackme)
+* [Writeups](https://github.com/HSNHK/CTF-writeups)
+    * [HackTheBox](#hackthebox)
+    * [TryHackMe](#tryhackme)
+    * [CTFLearn](#ctflearn)
 
-# Hack The Box
+# HackTheBox
 | Name  | Type | Descriptions | Writeup | 
 | ----- | ---- | ------------ | ------- |
-| Previse | Machine | <img src="./resources/images/Previse_Machine_Banner.JPG" height="110px" style="border-radius: 30px; padding-top: 10px"> | [Writeup](HackTheBox/machines/Previse) |
+| Previse | Machine | Previse Hackthebox walkthrough | [Writeup](HackTheBox/machines/Previse) |
 | Toxic | Web | Humanity has exploited our allies, the dart frogs, for far too long, take back the freedom of our lovely poisonous friends. Malicious input is out of the question when dart frogs meet industrialisation. 🐸 | [Writeup](HackTheBox/challenges/web/Toxic) | 
 | Emdee five for life | Web | Can you encrypt fast enough? | [Writeup](HackTheBox/challenges/web/Emdee-five-for-life) |
 | FreeLancer | Web | Can you test how secure my website is? Prove me wrong and capture the flag! | [Writeup](HackTheBox/challenges/web/FreeLancer) |
@@ -26,12 +35,6 @@ You can see all the writeups here : <a href="https://hsnhk.gitbook.io/ctf-writeu
 | baby ninja jinja | Web | The elders of the village summoned you to take the reigns after the recent death of you father. It's time to end the emperor's gruesome tyranny. | [Writeup](HackTheBox/challenges/web/baby-ninja-jinja) |
 | Gunship | Web | A city of lights, with retrofuturistic 80s peoples, and coffee, and drinks from another world... all the wooing in the world to make you feel more lonely... this ride ends here, with a tribute page of the British synthwave band called Gunship. 🎶 | [Writeup](HackTheBox/challenges/web/Gunship) |
 | Hancliffe | Machine | Hancliffe Hackthebox walkthrough | [Writeup](https://hsnhk.medium.com/hackthebox-hancliffe-ff2aa3da1e3f) |
-
-# CTF learn
-| Name  | Type | Descriptions | Writeup | 
-| ----- | ---- | ------------ | ------- |
-| Inj3ction Time | Web | I stumbled upon this website: http://web.ctflearn.com/web8/ and I think they have the flag in their somewhere. UNION might be a helpful command | [Writeup](CTFlearn/web/Inj3ction-Time) |
-| Calculat3 M3  | Web | Here! http://web.ctflearn.com/web7/ I forget how we were doing those calculations, but something tells me it was pretty insecure. | [Writeup](CTFlearn/web/Calculat3-M3) |
 
 # Tryhackme
 | Name  | Type | Descriptions | Writeup | 
@@ -45,3 +48,13 @@ You can see all the writeups here : <a href="https://hsnhk.gitbook.io/ctf-writeu
 | The find command | Room | A learn-by-doing approach to the find command. | [Writeup](https://hsnhk.medium.com/tryhackme-the-find-command-d64026d89c3) |
 | Disk Analysis & Autopsy | Forensic | Ready for a challenge? Use Autopsy to investigate artifacts from a disk image. | [Writeup](https://hsnhk.medium.com/tryhackme-disk-analysis-autopsy-f967c64feaf1) |
 | Internal | CTF | Penetration Testing Challenge | [Writeup](https://hsnhk.medium.com/tryhackme-internal-a64eed0b1562) |
+
+# CTFLearn
+| Name  | Type | Descriptions | Writeup | 
+| ----- | ---- | ------------ | ------- |
+| Inj3ction Time | Web | I stumbled upon this website: http://web.ctflearn.com/web8/ and I think they have the flag in their somewhere. UNION might be a helpful command | [Writeup](CTFlearn/web/Inj3ction-Time) |
+| Calculat3 M3  | Web | Here! http://web.ctflearn.com/web7/ I forget how we were doing those calculations, but something tells me it was pretty insecure. | [Writeup](CTFlearn/web/Calculat3-M3) |
+
+## License
+
+Released under [MIT](/LICENSE) by [@HSNHK](https://github.com/HSNHK).
