@@ -13,7 +13,7 @@
 </p>
 
 <i>You can see all the writeups here</i>
-- <a href="https://hsnhk.gitbook.io/ctf-writeups/"><img title="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+- <a href="https://hsnhk.medium.com/"><img title="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 - <a href="https://hsnhk.gitbook.io/ctf-writeups/"><img title="gitbook" src="https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white"/></a>
 
 * [Writeups](https://github.com/HSNHK/CTF-writeups)
@@ -48,6 +48,7 @@
 | The find command | Room | A learn-by-doing approach to the find command. | [Writeup](https://hsnhk.medium.com/tryhackme-the-find-command-d64026d89c3) |
 | Disk Analysis & Autopsy | Forensic | Ready for a challenge? Use Autopsy to investigate artifacts from a disk image. | [Writeup](https://hsnhk.medium.com/tryhackme-disk-analysis-autopsy-f967c64feaf1) |
 | Internal | CTF | Penetration Testing Challenge | [Writeup](https://hsnhk.medium.com/tryhackme-internal-a64eed0b1562) |
+| Lumberjack Turtle | CTF | No logs, no crime... so says the lumberjack. | [Writeup](https://hsnhk.medium.com/tryhackme-internal-f61b5aba39df) |
 
 # CTFLearn
 | Name  | Type | Descriptions | Writeup | 
