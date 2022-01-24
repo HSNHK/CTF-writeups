@@ -48,7 +48,7 @@
 | The find command | Room | A learn-by-doing approach to the find command. | [Writeup](https://hsnhk.medium.com/tryhackme-the-find-command-d64026d89c3) |
 | Disk Analysis & Autopsy | Forensic | Ready for a challenge? Use Autopsy to investigate artifacts from a disk image. | [Writeup](https://hsnhk.medium.com/tryhackme-disk-analysis-autopsy-f967c64feaf1) |
 | Internal | CTF | Penetration Testing Challenge | [Writeup](https://hsnhk.medium.com/tryhackme-internal-a64eed0b1562) |
-| Lumberjack Turtle | CTF | No logs, no crime... so says the lumberjack. | [Writeup](https://hsnhk.medium.com/tryhackme-internal-f61b5aba39df) |
+| Lumberjack Turtle | CTF | No logs, no crime... so says the lumberjack. | [Writeup](https://hsnhk.medium.com/tryhackme-lumberjack-turtle-db006d0a589e) |
 
 # CTFLearn
 | Name  | Type | Descriptions | Writeup | 
