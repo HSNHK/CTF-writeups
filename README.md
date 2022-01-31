@@ -1,6 +1,6 @@
 # CTF Writeups
 <p align="center">
-<img src="./resources/images/logo.jpg">
+<img src="resources/images/logo.jpg">
 <br>
 <i>Writeups Challenges I have solved</i>
 
@@ -35,7 +35,7 @@
 | baby ninja jinja | Web | The elders of the village summoned you to take the reigns after the recent death of you father. It's time to end the emperor's gruesome tyranny. | [Writeup](HackTheBox/challenges/web/baby-ninja-jinja) |
 | Gunship | Web | A city of lights, with retrofuturistic 80s peoples, and coffee, and drinks from another world... all the wooing in the world to make you feel more lonely... this ride ends here, with a tribute page of the British synthwave band called Gunship. 🎶 | [Writeup](HackTheBox/challenges/web/Gunship) |
 | Hancliffe | Machine | Hancliffe Hackthebox walkthrough | [Writeup](https://hsnhk.medium.com/hackthebox-hancliffe-ff2aa3da1e3f) |
-
+| Pandora  | Machine | Hackthebox Pandora walkthrough | [Writeup](https://hsnhk.medium.com/hackthebox-pandora-6831fa77ea29) |
 # Tryhackme
 | Name  | Type | Descriptions | Writeup | 
 | ----- | ---- | ------------ | ------- |
