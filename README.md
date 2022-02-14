@@ -36,6 +36,7 @@
 | Gunship | Web | A city of lights, with retrofuturistic 80s peoples, and coffee, and drinks from another world... all the wooing in the world to make you feel more lonely... this ride ends here, with a tribute page of the British synthwave band called Gunship. 🎶 | [Writeup](HackTheBox/challenges/web/Gunship) |
 | Hancliffe | Machine | Hancliffe Hackthebox walkthrough | [Writeup](https://hsnhk.medium.com/hackthebox-hancliffe-ff2aa3da1e3f) |
 | Pandora  | Machine | Hackthebox Pandora walkthrough | [Writeup](https://hsnhk.medium.com/hackthebox-pandora-6831fa77ea29) |
+| Shibboleth | Machine | Hackthebox Shibboleth walkthrough | [Writeup](https://hsnhk.medium.com/hackthebox-shibboleth-7852609c8932) |
 # Tryhackme
 | Name  | Type | Descriptions | Writeup | 
 | ----- | ---- | ------------ | ------- |
