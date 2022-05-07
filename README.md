@@ -26,7 +26,7 @@
 # HackTheBox
 | Name  | Type | Descriptions | Writeup | 
 | ----- | ---- | ------------ | ------- |
-| Previse | Machine | Previse Hackthebox walkthrough | [Writeup](HackTheBox/machines/Previse) |
+| Previse | Machine | Previse Hackthebox walkthrough | Removed ❌ |
 | Toxic | Web | Humanity has exploited our allies, the dart frogs, for far too long, take back the freedom of our lovely poisonous friends. Malicious input is out of the question when dart frogs meet industrialisation. 🐸 | [Writeup](HackTheBox/challenges/web/Toxic) | 
 | Emdee five for life | Web | Can you encrypt fast enough? | [Writeup](HackTheBox/challenges/web/Emdee-five-for-life) |
 | FreeLancer | Web | Can you test how secure my website is? Prove me wrong and capture the flag! | [Writeup](HackTheBox/challenges/web/FreeLancer) |
@@ -36,9 +36,9 @@
 | Phonebook | Web | Who is lucky enough to be included in the phonebook? | [Writeup](HackTheBox/challenges/web/Phonebook) |
 | baby ninja jinja | Web | The elders of the village summoned you to take the reigns after the recent death of you father. It's time to end the emperor's gruesome tyranny. | [Writeup](HackTheBox/challenges/web/baby-ninja-jinja) |
 | Gunship | Web | A city of lights, with retrofuturistic 80s peoples, and coffee, and drinks from another world... all the wooing in the world to make you feel more lonely... this ride ends here, with a tribute page of the British synthwave band called Gunship. 🎶 | [Writeup](HackTheBox/challenges/web/Gunship) |
-| Hancliffe | Machine | Hancliffe Hackthebox walkthrough | [Writeup](https://hsnhk.medium.com/hackthebox-hancliffe-ff2aa3da1e3f) |
-| Pandora  | Machine | Hackthebox Pandora walkthrough | [Writeup](https://hsnhk.medium.com/hackthebox-pandora-6831fa77ea29) |
-| Shibboleth | Machine | Hackthebox Shibboleth walkthrough | [Writeup](https://hsnhk.medium.com/hackthebox-shibboleth-7852609c8932) |
+| Hancliffe | Machine | Hancliffe Hackthebox walkthrough | Removed ❌ |
+| Pandora  | Machine | Hackthebox Pandora walkthrough | Removed ❌ |
+| Shibboleth | Machine | Hackthebox Shibboleth walkthrough | Removed ❌ |
 # Tryhackme
 | Name  | Type | Descriptions | Writeup | 
 | ----- | ---- | ------------ | ------- |
