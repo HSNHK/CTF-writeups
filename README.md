@@ -52,6 +52,7 @@
 | Disk Analysis & Autopsy | Forensic | Ready for a challenge? Use Autopsy to investigate artifacts from a disk image. | [Writeup](https://hsnhk.medium.com/tryhackme-disk-analysis-autopsy-f967c64feaf1) |
 | Internal | CTF | Penetration Testing Challenge | [Writeup](https://hsnhk.medium.com/tryhackme-internal-a64eed0b1562) |
 | Lumberjack Turtle | CTF | No logs, no crime... so says the lumberjack. | [Writeup](https://hsnhk.medium.com/tryhackme-lumberjack-turtle-db006d0a589e) |
+| Brainpan 1 | CTF | Reverse engineer a Windows executable, find a buffer overflow and exploit it on a Linux machine. | [Writeup](https://hsnhk.medium.com/tryhackme-brainpan-1-ff227d42189e) |
 
 # CTF
 | Name  | Format | Descriptions | Writeup | 
